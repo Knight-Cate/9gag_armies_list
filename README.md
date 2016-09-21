@@ -5,7 +5,7 @@
 ###Structure:
 
 ####Texts
-#####Texts should require "\@" symbol in beginning of each nickname. Formatting style is @nickname then space
+#####Texts should require "@" symbol in beginning of each nickname. Formatting style is @nickname then space
 * doges.txt - armies of doges.
 * cates.txt - armies of cates.
 * sneks.txt - armies of sneks.
