@@ -10,6 +10,7 @@
 * cates.txt - armies of cates.
 * sneks.txt - armies of sneks.
 
-To compile all txt file to JSON, you should install NodeJS and run ''node tojson.js''
+To compile all txt file to JSON, you should install NodeJS and exec
+>     node tojson.js
 
-By 9gag.com/u/kenya-west with potato 
+By 9gag.com/u/kenyawest with potato 
