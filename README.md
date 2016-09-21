@@ -10,6 +10,11 @@
 * cates.txt - armies of cates.
 * sneks.txt - armies of sneks.
 
+####Data
+#####JSON
+This project includes JSON file. Use the power of data coders!
+
+####Compile to JSON
 To compile all txt file to JSON, you should install NodeJS and exec
 >     node tojson.js
 
